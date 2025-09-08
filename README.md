@@ -5,4 +5,4 @@ Grid se usa para diseños bidimensionales (filas y columnas simultáneamente) y 
 mientras que Flexbox es para diseños unidimensionales (una sola fila o columna) y es excelente para alinear y distribuir elementos dentro de un contenedor, 
 como un menú de navegación.
 
-Perdon por la entrega tardia, no me entere que hubo labo e intente comunicarme con el catedratico sin suerte haci que por cualquier cosa mando mi trabajo con esperansasa de el lunes poder hablar con ustedes y llegar a un acuerdo o aunque sea de hacerlo diferido.
+Perdon por la entrega tardia, no me entere que hubo labo hasta el dia de hoy, intente comunicarme con el catedratico sin suerte por lo que por cualquier cosa mando mi trabajo con esperansasa de el lunes poder hablar con ustedes y llegar a un acuerdo sobre ello, ya que no se menciono que habia labo esta semana cuando estube en clases, y no se aviso ningun correo. 
